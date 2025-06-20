@@ -16,11 +16,6 @@ Một phiên bản đơn giản của game Flappy Bird được viết bằng ng
 - WinForms (.NET Framework)
 - Visual Studio 2022
 
-## 📥 Dùng thử
-
-👉 [Tải file .exe tại đây](https://github.com/minhchuong32/flappy-bird/release.rar)
-
-> ⚠️ Nếu Windows chặn file, click chuột phải → Properties → Unblock → Run anyway
 
 ## 🎮 Cách chơi
 - Nhấn **phím cách (Space)** để làm chú chim bay lên
