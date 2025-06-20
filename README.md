@@ -18,7 +18,7 @@ Một phiên bản đơn giản của game Flappy Bird được viết bằng ng
 
 ## 📥 Dùng thử
 
-👉 [Tải file .exe tại đây](https://github.com/minhchuong32/flappy-bird/release/Flappybird.exe)
+👉 [Tải file .exe tại đây](https://github.com/minhchuong32/flappy-bird/release.rar)
 
 > ⚠️ Nếu Windows chặn file, click chuột phải → Properties → Unblock → Run anyway
 
