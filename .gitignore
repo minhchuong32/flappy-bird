@@ -1,0 +1,18 @@
+﻿# Thư mục Visual Studio
+.vs/
+*.user
+*.suo
+
+# File build
+bin/
+obj/
+
+# Tạm thời
+*.cache
+*.pdb
+*.dll
+*.exe
+
+# Thư mục ref và refint (tạm thời)
+obj/**/ref/
+obj/**/refint/
